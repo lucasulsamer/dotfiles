@@ -1,0 +1,10 @@
+[opener]
+sioyek = [
+  { run = 'open -a Sioyek "$@"', orphan = true, desc = "Sioyek" }
+]
+
+[open]
+prepend_rules = [
+  { url = "*.pdf", use = "sioyek" },
+  { url = "*.epub", use = "sioyek" }
+]
