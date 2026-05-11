@@ -12,7 +12,7 @@ Hi, this repo contains my relevant styled dotfiles and stack I use.
 | <img src="https://www.google.com/s2/favicons?domain=calibre-ebook.com&sz=64" alt="Calibre logo" width="18"> | Calibre | Ebook management | [GitHub](https://github.com/kovidgoyal/calibre) | - |
 | <img src="https://www.google.com/s2/favicons?domain=diagrams.net&sz=64" alt="Draw.io logo" width="18"> | Draw.io | Diagrams | [GitHub](https://github.com/jgraph/drawio-desktop) | - |
 | <img src="https://www.google.com/s2/favicons?domain=fontforge.org&sz=64" alt="FontForge logo" width="18"> | FontForge | Font creation | [GitHub](https://github.com/fontforge/fontforge) | - |
-| <img src="https://www.google.com/s2/favicons?domain=notchnook.dev&sz=64" alt="NotchNook logo" width="18"> | NotchNook | Mac notch utility | [Website](https://notchnook.dev/) | - |
+| <img src="https://www.google.com/s2/favicons?domain=tryalcove.com&sz=64" alt="Alcove logo" width="18"> | Alcove | Mac notch utility | [Website](https://tryalcove.com/) | - |
 | <img src="https://www.google.com/s2/favicons?domain=tw93.fun&sz=64" alt="Mole logo" width="18"> | Mole | Cleanup | [GitHub](https://github.com/tw93/Mole) | - |
 | <img src="https://www.google.com/s2/favicons?domain=iterm2.com&sz=64" alt="iTerm2 logo" width="18"> | iTerm2 | Terminal | [GitHub](https://github.com/gnachman/iTerm2) | - |
 | <img src="https://www.google.com/s2/favicons?domain=ohmyposh.dev&sz=64" alt="Oh My Posh logo" width="18"> | Oh My Posh | Terminal theming | [GitHub](https://github.com/JanDeDobbeleer/oh-my-posh) | - |
